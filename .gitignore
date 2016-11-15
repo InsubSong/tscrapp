@@ -1,0 +1,12 @@
+*.o
+*.d
+*.s
+*.bin
+*.hex
+*.elf
+*.map
+*.log
+*.exe
+*.lst
+*.bat
+.settings/*.prefs
